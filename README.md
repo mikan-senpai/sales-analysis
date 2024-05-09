@@ -1,4 +1,4 @@
-# Data Engineering for Retail Sales Analytics 
+# 🚀 📃 Data Engineering for Retail Sales Analytics 🔨
 
 ## Introduction
 Data engineering is fundamental for extracting insights from vast datasets in today's digital age. In the context of a retail sales analytics platform, efficient data engineering ensures seamless data processing, analysis, and deriving actionable insights.
@@ -18,7 +18,7 @@ Data engineering is fundamental for extracting insights from vast datasets in to
 - Retail data encompasses information crucial for retailers, aiding in understanding customers, sales patterns, and inventory management.
 - It plays a pivotal role in decision-making processes, enabling retailers to make informed choices to improve performance.
 
-## Architecture Overview
+## Pyspark Architecture Overview
 1. Driver Program: Initiates Spark applications and manages their execution.
 2. Cluster Manager: Orchestrates resources across a cluster for efficient computation.
 3. Worker Node: Executes tasks assigned by the driver program within the cluster.
@@ -37,14 +37,11 @@ Data engineering is fundamental for extracting insights from vast datasets in to
 - Performing complex analytical queries for meaningful insights.
 
 ## GitHub Repository Overview
-- **Repository Link:** [GitHub Repository](link_to_your_github_repository)
+- **Report Link:** [GitHub Repository]([link_to_your_github_repository](https://github.com/mikan-senpai/sales-analysis/blob/master/sales_analysis_documentation.pdf))
 ### Readme Highlights:
 1. Overview: Introduction to the project, its significance, and tools used.
 2. Retail Data: Explanation of retail data and its importance.
 3. Technologies Used: Overview of the technologies employed in data engineering.
 4. Architecture: Overview of the project's architecture.
 5. Business Requirements: Description of project goals, features, and challenges.
-6. Usage: Instructions on how to use the project.
-7. Contributions: Guidelines for contributors.
-8. License: Information on project licensing.
 
